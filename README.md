@@ -1,2 +1,2 @@
-# aws-workshop
+# aws-workshop-bedrock
 python-scripts
